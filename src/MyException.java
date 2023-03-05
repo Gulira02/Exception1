@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class MyException {
+public class MyException extends Exception{
 }
